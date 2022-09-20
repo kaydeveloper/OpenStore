@@ -54,7 +54,7 @@ export default function Itemview() {
 
           <span className="small-text"> ETH</span>
 
-          <h5 className="display-6" text-justify>
+          <h5 className="display-6 text-justify" >
             <b>Created by :</b> XYZ
           </h5>
           <h5 className="display-6  text-justify">
